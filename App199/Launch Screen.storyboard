@@ -43,7 +43,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="logo_big" width="888" height="980"/>
+        <image name="logo_big" width="766" height="909"/>
         <namedColor name="bg">
             <color red="0.035000000149011612" green="0.030999999493360519" blue="0.046999998390674591" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
         </namedColor>
